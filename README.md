@@ -31,4 +31,4 @@ npm start
 
 
 ## 📺 Updates
-<b>We are always adding more stuff!<b>
+<b>We are always adding more stuff.<b>
